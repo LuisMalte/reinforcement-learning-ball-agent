@@ -1,0 +1,9 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+.vs/
+results/**/*.pt
+*.csproj
+*.sln
