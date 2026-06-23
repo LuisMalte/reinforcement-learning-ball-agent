@@ -1,7 +1,8 @@
 # Reinforcement Learning Ball Agent: Navegación Autónoma en 3D
 
-[![Demostración del Agente](<img width="1174" height="744" alt="WhatsApp Image 2026-06-22 at 8 30 51 PM" src="https://github.com/user-attachments/assets/38e9c54f-29d1-4b79-8685-ffc0c6f7309d" />
-)](https://youtu.be/DJ4teExj5Mo)
+<a href="https://youtu.be/DJ4teExj5Mo">
+  <img src="https://github.com/user-attachments/assets/38e9c54f-29d1-4b79-8685-ffc0c6f7309d" alt="Demostración del Agente" width="1174" height="744" />
+</a>
 
 ## ¿De qué trata este proyecto?
 Este repositorio contiene un agente de Inteligencia Artificial que aprendió desde cero a navegar por un circuito 3D continuo. Construido en **Unity** con **ML-Agents**, la IA controla una esfera que debe llegar a la meta superando curvas, inercias e imperfecciones en la pista, basándose únicamente en un sistema de prueba y error estructurado (Aprendizaje por Refuerzo).
